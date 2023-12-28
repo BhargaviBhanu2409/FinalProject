@@ -1,1 +1,1 @@
-Hi...This is my final project ,the projecct name is "SmartCity Guide" 
+Hi...This is my final project ,the project name is "SmartCity Guide" 
